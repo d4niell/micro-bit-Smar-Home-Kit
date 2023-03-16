@@ -24,5 +24,17 @@ Omaisille annettavana tukena: Tietotekniikan ja tietoliikenteen palvelut, jotka 
 * Aloita uusi projekti, jonka jälkeen nettisivua redirectaa sinut automaattisesti koodi editoriin. Voit valita, koodaatko joko blockeilla, javascriptillä tai pythonilla.
  * HUOM! Ennen kun alotat koodaamaan, tarvitset extension Smart homea varten. Paina "Extensions" ![ohje](https://i.imgur.com/wWxeLfe.png)
  * Kirjoita "Smart home" hakukenttään ![ohje](https://i.imgur.com/C0hdQcr.png)
- Valitse vasemman puoleisin "smart home" extensio ja klikkaa siitä. Extensio latautuu automaattisesti 
+ * Valitse vasemman puoleisin "smart home" extensio ja klikkaa siitä. Extensio latautuu automaattisesti 
  
+ Tämän jälkeen sinulla pitäisi olla extensio ladattuna:
+ ![ohje](https://i.imgur.com/eFxTIxw.png)
+ 
+ 
+ ## Ääniohjatut valot
+ 
+ * koodi:
+ ![ohje](https://i.imgur.com/XRM7zdt.png)
+ 
+ * HUOM! Sinun täytyy itse luoda muuttujat, kuten koodissani on "noise", "light", "strip".
+ * Muuttujien nimillä ei ole väliä, kunhan ne ovat asialliset.
+ * Pystyt luomaan omia muttujia kohdassa "Variables".
