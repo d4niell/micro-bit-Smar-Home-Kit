@@ -3,6 +3,8 @@ Luo oma älykäs kotijärjestelmäsi käyttämällä yksinkertaisia moduuleja ja
 Tässä projektissa voi käyttää suosittuja "blockkeja" ohjelmoimiseen, joka ei vaadi muuta kuin lukutaitoa.
 Jos olet jo ennestään ohjelmoinut, voit myös käyttää JavaScriptiä!
 Tämä on todella yksinkertaista ja jokaisen koodin voi tehdä alle minuutissa ja mikä parasta, voit itse muokata niitä maun mukaan!
+Tämä voi näyttää vaikealta mutta teidän ei tarvitse muutakuin kopioida koodit, ei vaadi kikkailuja!
+
 ## Mikä on hyvinvointiteknologia?
 
 * Hyvinvointiteknologia käsittää kaiken tekniikan, joka tavalla tai toisella parantaa sitä tarvitsevien elämää. Tekniikkaa käytetään vajaakuntoisten henkilöiden tai vanhusten turvallisuuden, toimintakyvyn, osallistumisen tai omavaraisuuden säilyttämiseen tai parantamiseen.
@@ -60,3 +62,8 @@ Omaisille annettavana tukena: Tietotekniikan ja tietoliikenteen palvelut, jotka 
 
 ## Automaattinen vaatekaappi
  
+![ohje](https://i.imgur.com/2DlwSlJ.png)
+
+## Vedenkorkeuden Ilmaisin
+
+![ohje](https://i.imgur.com/j3cPElC.png)
