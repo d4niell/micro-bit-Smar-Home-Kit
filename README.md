@@ -1,6 +1,7 @@
 # micro:bit Smart Home Kit
-Luo oma älykäs kotijärjestelmäsi käyttämällä yksinkertaisia moduuleja ja ohjelmointia.
-
+Luo oma älykäs kotijärjestelmäsi käyttämällä yksinkertaisia moduuleja ja ohjelmoimalla.
+Tässä projektissa voi käyttää suosittuja "blockkeja" ohjelmoimiseen, joka ei vaadi muuta kuin lukutaitoa.
+Jos olet jo ennestään ohjelmoinut, voit myös käyttää JavaScriptiä!
 ## Mikä on hyvinvointiteknologia?
 
 * Hyvinvointiteknologia käsittää kaiken tekniikan, joka tavalla tai toisella parantaa sitä tarvitsevien elämää. Tekniikkaa käytetään vajaakuntoisten henkilöiden tai vanhusten turvallisuuden, toimintakyvyn, osallistumisen tai omavaraisuuden säilyttämiseen tai parantamiseen.
@@ -38,3 +39,11 @@ Omaisille annettavana tukena: Tietotekniikan ja tietoliikenteen palvelut, jotka 
  * HUOM! Sinun täytyy itse luoda muuttujat, kuten koodissani on "noise", "light", "strip".
  * Muuttujien nimillä ei ole väliä, kunhan ne ovat asialliset.
  * Pystyt luomaan omia muttujia kohdassa "Variables".
+ 
+ 
+ ## Älytuuletin
+ 
+ * Huomioithan, että tässäkin koodissa käytetään variableita, joten voit luoda ne jo valmiiksi!
+ * koodi:
+ ![ohje](https://i.imgur.com/Pxp3ec5.png)
+ 
